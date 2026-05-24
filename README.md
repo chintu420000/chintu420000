@@ -95,13 +95,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chintu420000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chintu420000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu420000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu420000&theme=tokyonight&hide_border=true&layout=compact" width="49%"/>
 
-<img src="https://streak-stats.demolab.com?user=chintu420000&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chintu420000&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="98%"/>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=chintu420000&theme=tokyonight&hide_border=true&fire=DD2727" width="60%"/>
 
 </div>
 
