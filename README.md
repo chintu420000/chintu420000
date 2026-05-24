@@ -10,32 +10,17 @@
 
 ## 👨‍💻 About Me
 
-```python
-class VijayKumar:
-    def __init__(self):
-        self.name       = "Bejjarapu VijayKumar"
-        self.role       = "Backend Developer (Python/Django)"
-        self.location   = "Hyderabad, India 🇮🇳"
-        self.education  = "B.Tech CSE - Holy Mary Institute of Technology & Science"
-        self.cgpa       = "7.80 / 10"
-        self.email      = "bejjarapuvijaykumar33@gmail.com"
-        self.open_to    = "Entry-level Backend Developer roles"
+🧑‍💻 **Name:** Bejjarapu VijayKumar
 
-    def skills(self):
-        return {
-            "languages":   ["Python", "SQL", "HTML", "CSS"],
-            "frameworks":  ["Django", "Django REST Framework"],
-            "databases":   ["MySQL", "SQLite"],
-            "tools":       ["Git", "GitHub", "VS Code", "PyCharm"],
-            "concepts":    ["REST API", "ORM", "RBAC", "SDLC"]
-        }
+🎯 **Role:** Backend Developer (Python/Django)
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something great together 🚀")
+📍 **Location:** Hyderabad, India 🇮🇳
 
-me = VijayKumar()
-me.say_hi()
-```
+🎓 **Education:** B.Tech CSE — Holy Mary Institute of Technology & Science | CGPA: 7.80/10
+
+📧 **Email:** bejjarapuvijaykumar33@gmail.com
+
+🔍 **Open To:** Entry-level Backend Developer roles
 
 ---
 
