@@ -1,19 +1,29 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&multiline=false&width=800&height=80&lines=Bejjarapu+VijayKumar+%F0%9F%91%8B;%F0%9F%8C%88+Rainbow+Developer+%F0%9F%8C%88;Backend+Dev+%7C+Python+%26+Django+%F0%9F%90%8D;Building+Real-World+Projects+%F0%9F%9A%80;Open+To+Work+%F0%9F%92%BC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&duration=2000&pause=800&color=FF4500&center=true&vCenter=true&width=800&height=90&lines=%F0%9F%94%A5+Bejjarapu+VijayKumar+%F0%9F%94%A5" alt="Name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FF6500&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Backend+Developer+%7C+Python+%26+Django+%F0%9F%90%8D;Building+Real-World+Projects+%F0%9F%9A%80;Open+To+Work+%F0%9F%92%BC;6%2B+Internships+%7C+Django+%7C+REST+APIs+%F0%9F%94%A5" alt="Subtitle" />
 
 <br/>
 
-![red](https://img.shields.io/badge/%20-red-red?style=flat-square&labelColor=red)
-![orange](https://img.shields.io/badge/%20-orange-orange?style=flat-square&labelColor=orange)
-![yellow](https://img.shields.io/badge/%20-yellow-yellow?style=flat-square&labelColor=yellow)
-![green](https://img.shields.io/badge/%20-green-green?style=flat-square&labelColor=green)
-![blue](https://img.shields.io/badge/%20-blue-blue?style=flat-square&labelColor=blue)
-![purple](https://img.shields.io/badge/%20-purple-purple?style=flat-square&labelColor=purple)
+![](https://img.shields.io/badge/🔥-FF0000?style=flat-square&color=FF0000)
+![](https://img.shields.io/badge/🔥-FF1A00?style=flat-square&color=FF1A00)
+![](https://img.shields.io/badge/🔥-FF3300?style=flat-square&color=FF3300)
+![](https://img.shields.io/badge/🔥-FF4500?style=flat-square&color=FF4500)
+![](https://img.shields.io/badge/🔥-FF6500?style=flat-square&color=FF6500)
+![](https://img.shields.io/badge/🔥-FF8000?style=flat-square&color=FF8000)
+![](https://img.shields.io/badge/🔥-FF9500?style=flat-square&color=FF9500)
+![](https://img.shields.io/badge/🔥-FFB300?style=flat-square&color=FFB300)
+![](https://img.shields.io/badge/🔥-FF8000?style=flat-square&color=FF8000)
+![](https://img.shields.io/badge/🔥-FF6500?style=flat-square&color=FF6500)
+![](https://img.shields.io/badge/🔥-FF4500?style=flat-square&color=FF4500)
+![](https://img.shields.io/badge/🔥-FF3300?style=flat-square&color=FF3300)
+![](https://img.shields.io/badge/🔥-FF1A00?style=flat-square&color=FF1A00)
+![](https://img.shields.io/badge/🔥-FF0000?style=flat-square&color=FF0000)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=chintu420000&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=chintu420000&color=FF4500&style=for-the-badge&label=🔥+PROFILE+VIEWS)
 
 </div>
 ---
