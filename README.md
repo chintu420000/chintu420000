@@ -1,20 +1,17 @@
 <div align="center">
-  <!-- Top Animated Border Line -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=1&pause=99999&color=00F5D4&center=true&vCenter=true&width=800&height=20&lines=%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC" alt="border" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=1&pause=99999&color=7000FF&center=true&vCenter=true&width=800&height=20&lines=.+..+...++...+..+.++..+...++...+..+." alt="border" />
 
   <!-- Main Name Title -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&height=80&lines=Bejjarapu+VijayKumar;Hi%2C+I'm+Vijay+%F0%9F%91%8B" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=3500&pause=1200&color=00FF66&center=true&vCenter=true&width=800&height=80&lines=%E2%80%B9+VijayKumar+Bejjarapu+Reference+%E2%80%BA;System.out.print(%22Hello%22);" alt="Name" />
 
   <!-- Subtitles / Roles -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=90E0EF&center=true&vCenter=true&width=800&height=40&lines=Backend+Developer+%E2%9A%99%EF%B8%8F;Python+%26+Django+Expert+%F0%9F%90%8D;Building+Scalable+REST+APIs+%F0%9F%9A%80;Open+To+Work+%F0%9F%92%BC" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=CC00FF&center=true&vCenter=true&width=800&height=40&lines=Python+%26+Django+Developer+%F0%9F%90%8D;Building+Real-World+Web+Portals+%F0%9F%8C%90;6%2B+Hands-On+Internships+%F0%9F%92%BC;Actively+Seeking+Opportunities+%F0%9F%9A%80" alt="Subtitle" />
 
-  <!-- Bottom Animated Border Line -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=1&pause=99999&color=00F5D4&center=true&vCenter=true&width=800&height=20&lines=%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC" alt="border" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=1&pause=99999&color=7000FF&center=true&vCenter=true&width=800&height=20&lines=.+..+...++...+..+.++..+...++...+..+." alt="border" />
   
   <br/>
   
-  <!-- Sleek Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=chintu420000&color=00b4d8&style=flat-square&label=PROFILE+VIEWS+%F0%9F%91%81%EF%B8%8F" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=chintu420000&color=7000FF&style=flat&label=DASHBOARD+VIEWS" alt="Profile Views" />
 </div>
 ---
 
