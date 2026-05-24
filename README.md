@@ -1,30 +1,20 @@
 <div align="center">
+  <!-- Top Animated Border Line -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=1&pause=99999&color=00F5D4&center=true&vCenter=true&width=800&height=20&lines=%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC" alt="border" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&duration=2000&pause=800&color=FF4500&center=true&vCenter=true&width=800&height=90&lines=%F0%9F%94%A5+Bejjarapu+VijayKumar+%F0%9F%94%A5" alt="Name" />
+  <!-- Main Name Title -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&height=80&lines=Bejjarapu+VijayKumar;Hi%2C+I'm+Vijay+%F0%9F%91%8B" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FF6500&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Backend+Developer+%7C+Python+%26+Django+%F0%9F%90%8D;Building+Real-World+Projects+%F0%9F%9A%80;Open+To+Work+%F0%9F%92%BC;6%2B+Internships+%7C+Django+%7C+REST+APIs+%F0%9F%94%A5" alt="Subtitle" />
+  <!-- Subtitles / Roles -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=90E0EF&center=true&vCenter=true&width=800&height=40&lines=Backend+Developer+%E2%9A%99%EF%B8%8F;Python+%26+Django+Expert+%F0%9F%90%8D;Building+Scalable+REST+APIs+%F0%9F%9A%80;Open+To+Work+%F0%9F%92%BC" alt="Subtitle" />
 
-<br/>
-
-![](https://img.shields.io/badge/🔥-FF0000?style=flat-square&color=FF0000)
-![](https://img.shields.io/badge/🔥-FF1A00?style=flat-square&color=FF1A00)
-![](https://img.shields.io/badge/🔥-FF3300?style=flat-square&color=FF3300)
-![](https://img.shields.io/badge/🔥-FF4500?style=flat-square&color=FF4500)
-![](https://img.shields.io/badge/🔥-FF6500?style=flat-square&color=FF6500)
-![](https://img.shields.io/badge/🔥-FF8000?style=flat-square&color=FF8000)
-![](https://img.shields.io/badge/🔥-FF9500?style=flat-square&color=FF9500)
-![](https://img.shields.io/badge/🔥-FFB300?style=flat-square&color=FFB300)
-![](https://img.shields.io/badge/🔥-FF8000?style=flat-square&color=FF8000)
-![](https://img.shields.io/badge/🔥-FF6500?style=flat-square&color=FF6500)
-![](https://img.shields.io/badge/🔥-FF4500?style=flat-square&color=FF4500)
-![](https://img.shields.io/badge/🔥-FF3300?style=flat-square&color=FF3300)
-![](https://img.shields.io/badge/🔥-FF1A00?style=flat-square&color=FF1A00)
-![](https://img.shields.io/badge/🔥-FF0000?style=flat-square&color=FF0000)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=chintu420000&color=FF4500&style=for-the-badge&label=🔥+PROFILE+VIEWS)
-
+  <!-- Bottom Animated Border Line -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=1&pause=99999&color=00F5D4&center=true&vCenter=true&width=800&height=20&lines=%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC" alt="border" />
+  
+  <br/>
+  
+  <!-- Sleek Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=chintu420000&color=00b4d8&style=flat-square&label=PROFILE+VIEWS+%F0%9F%91%81%EF%B8%8F" alt="Profile Views" />
 </div>
 ---
 
