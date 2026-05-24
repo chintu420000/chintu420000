@@ -1,17 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=1&pause=99999&color=7000FF&center=true&vCenter=true&width=800&height=20&lines=.+..+...++...+..+.++..+...++...+..+." alt="border" />
+  <!-- Main Rapid Color-Shifting Name Title -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=1200&pause=200&color=FF4500&center=true&vCenter=true&width=800&height=80&lines=%E2%A7%AF+Bejjarapu+VijayKumar+%E2%A7%AE;&color=FF8C00&%E2%A7%AF+Bejjarapu+VijayKumar+%E2%A7%AE;&color=FFD700&%E2%A7%AF+Bejjarapu+VijayKumar+%E2%A7%AE" alt="Name Shift" />
 
-  <!-- Main Name Title -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=3500&pause=1200&color=00FF66&center=true&vCenter=true&width=800&height=80&lines=%E2%80%B9+VijayKumar+Bejjarapu+Reference+%E2%80%BA;System.out.print(%22Hello%22);" alt="Name" />
-
-  <!-- Subtitles / Roles -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=CC00FF&center=true&vCenter=true&width=800&height=40&lines=Python+%26+Django+Developer+%F0%9F%90%8D;Building+Real-World+Web+Portals+%F0%9F%8C%90;6%2B+Hands-On+Internships+%F0%9F%92%BC;Actively+Seeking+Opportunities+%F0%9F%9A%80" alt="Subtitle" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=1&pause=99999&color=7000FF&center=true&vCenter=true&width=800&height=20&lines=.+..+...++...+..+.++..+...++...+..+." alt="border" />
+  <!-- Subtitles / Roles (Fast Transitions) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1500&pause=200&color=FF8C00&center=true&vCenter=true&width=800&height=40&lines=Backend+Developer+%E2%94%82+Python+%26+Django+%F0%9F%90%8D;&color=FFD700&6%2B+Internships+%E2%94%82+Django+REST+APIs+%F0%9F%9A%80;&color=FF4500&Open+To+Work+%F0%9F%92%BC" alt="Subtitle Shift" />
   
   <br/>
   
-  <img src="https://komarev.com/ghpvc/?username=chintu420000&color=7000FF&style=flat&label=DASHBOARD+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=chintu420000&color=FF4500&style=flat-square&label=%F0%9F%94%A5+PROFILE+ENGAGEMENT" alt="Profile Views" />
 </div>
 ---
 
