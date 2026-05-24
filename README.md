@@ -1,20 +1,10 @@
 <div align="center">
 
-<!-- Dynamic Typing Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Bejjarapu+VijayKumar;Backend+Developer+%7C+Python+%26+Django;Building+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 
-<!-- Dynamic Visitor Counter -->
-![Visitor Count](https://profile-counter.glitch.me/chintu420000/count.svg)
-
-<!-- Profile Views Badge -->
 ![Profile Views](https://komarev.com/ghpvc/?username=chintu420000&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
----
-
-<!-- Dynamic Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 ---
 
@@ -95,13 +85,6 @@ me.say_hi()
 
 ## 🏆 Featured Projects
 
-<div align="center">
-
-[![Blood Donor Portal](https://github-readme-stats.vercel.app/api/pin/?username=chintu420000&repo=Blood-Donor-Web-Portal&theme=tokyonight&hide_border=true)](https://github.com/chintu420000)
-[![CodSoft Intern](https://github-readme-stats.vercel.app/api/pin/?username=chintu420000&repo=CodSoft-Intern&theme=tokyonight&hide_border=true)](https://github.com/chintu420000/CodSoft-Intern)
-
-</div>
-
 ### 🩸 Blood Donor Web Portal *(Major Project)*
 > **Tech:** Python · Django · MySQL · REST APIs · SMTP · React.js · Bootstrap
 
@@ -110,22 +93,28 @@ me.say_hi()
 - ⚡ Optimized ORM queries & secure authentication
 - 🤝 Full API integration with React.js frontend
 
+🔗 [View Project](https://github.com/chintu420000/Blood-Donor-Web-Portal)
+
+### 🎓 Student Management System
+> **Tech:** Python · Django · MySQL · Django Admin
+
+- 📋 Manage student records — attendance, marks, profiles
+- 🔐 Login & role-based access control
+- 🗄️ Django ORM with MySQL backend
+
+🔗 [View Project](https://github.com/chintu420000/Student-Management-System)
+
 ---
 
 ## 📊 Dynamic GitHub Stats
 
 <div align="center">
 
-<!-- Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=chintu420000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-
-<!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chintu420000&theme=tokyonight&hide_border=true" width="49%"/>
 
-<!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu420000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
 
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chintu420000&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
 
 </div>
@@ -142,11 +131,15 @@ me.say_hi()
 
 ---
 
-## 🐍 Dynamic Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/chintu420000/chintu420000/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chintu420000/chintu420000/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chintu420000/chintu420000/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/chintu420000/chintu420000/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
@@ -155,7 +148,7 @@ me.say_hi()
 ## 💼 Internship Experience
 
 | Company | Role | Year |
-|--------|------|------|
+|---------|------|------|
 | 🏢 CodSoft | Python Backend Intern | 2024 |
 | 🏢 Cognifyz Technologies | Python Developer Intern | 2024 |
 | 🏢 Oasis Infobyte | Python Intern | 2024 |
@@ -185,9 +178,6 @@ me.say_hi()
 </div>
 
 ---
-
-<!-- Dynamic Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 <div align="center">
 💡 <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
