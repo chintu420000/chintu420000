@@ -95,18 +95,19 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chintu420000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+[![GitHub followers](https://img.shields.io/github/followers/chintu420000?style=for-the-badge&theme=dark&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/chintu420000)
+[![GitHub stars](https://img.shields.io/github/stars/chintu420000?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/chintu420000)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu420000&theme=tokyonight&hide_border=true&layout=compact" width="49%"/>
+| Metric | Value |
+|--------|-------|
+| 🏢 Public Repos | 9 |
+| 🌍 Location | Hyderabad, India |
+| 💼 Experience | Internships at 6 companies |
+| 🐍 Main Language | Python |
+| 🗄️ Database | MySQL, SQLite |
+| 🔧 Framework | Django, DRF |
 
 </div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=chintu420000&theme=tokyonight&hide_border=true&fire=DD2727" width="60%"/>
-
-</div>
-
 ---
 
 ## 🏅 GitHub Trophies
