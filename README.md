@@ -1,10 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,25:ff7700,50:ffff00,75:00ff00,100:0000ff&height=200&section=header&text=Bejjarapu%20VijayKumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%26%20Django&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&multiline=false&width=800&height=80&lines=Bejjarapu+VijayKumar+%F0%9F%91%8B;%F0%9F%8C%88+Rainbow+Developer+%F0%9F%8C%88;Backend+Dev+%7C+Python+%26+Django+%F0%9F%90%8D;Building+Real-World+Projects+%F0%9F%9A%80;Open+To+Work+%F0%9F%92%BC" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hi+%F0%9F%91%8B+I'm+Bejjarapu+VijayKumar!;Backend+Developer+%7C+Python+%26+Django;Building+Real-World+Projects+%F0%9F%9A%80;Open+To+Work+%F0%9F%92%BC" alt="Typing SVG" />
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,16:ff7700,33:ffff00,50:00ff00,66:0000ff,83:8b00ff,100:ff0000&height=4&section=header" width="100%"/>
+![red](https://img.shields.io/badge/%20-red-red?style=flat-square&labelColor=red)
+![orange](https://img.shields.io/badge/%20-orange-orange?style=flat-square&labelColor=orange)
+![yellow](https://img.shields.io/badge/%20-yellow-yellow?style=flat-square&labelColor=yellow)
+![green](https://img.shields.io/badge/%20-green-green?style=flat-square&labelColor=green)
+![blue](https://img.shields.io/badge/%20-blue-blue?style=flat-square&labelColor=blue)
+![purple](https://img.shields.io/badge/%20-purple-purple?style=flat-square&labelColor=purple)
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chintu420000&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 
