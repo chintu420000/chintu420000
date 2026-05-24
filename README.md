@@ -91,16 +91,15 @@
 
 ---
 
-## 📊 Dynamic GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chintu420000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=chintu420000&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chintu420000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintu420000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chintu420000&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
+<img src="https://streak-stats.demolab.com?user=chintu420000&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%"/>
 
 </div>
 
@@ -110,7 +109,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=chintu420000&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=chintu420000&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4"/>
 
 </div>
 
