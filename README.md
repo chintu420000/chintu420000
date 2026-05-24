@@ -1,13 +1,14 @@
 <div align="center">
-  <!-- Main Rapid Color-Shifting Name Title -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=1200&pause=200&color=FF4500&center=true&vCenter=true&width=800&height=80&lines=%E2%A7%AF+Bejjarapu+VijayKumar+%E2%A7%AE;&color=FF8C00&%E2%A7%AF+Bejjarapu+VijayKumar+%E2%A7%AE;&color=FFD700&%E2%A7%AF+Bejjarapu+VijayKumar+%E2%A7%AE" alt="Name Shift" />
+  <!-- Main Name Title with Dark Premium Background (Fast Speed) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=1100&pause=150&background=1A1A24&color=00F5D4&center=true&vCenter=true&width=800&height=90&lines=%E2%9A%A1+Bejjarapu+VijayKumar+%E2%9A%A1;&color=FF007F&%E2%9A%99%EF%B8%8F+Bejjarapu+VijayKumar+%E2%9A%99%EF%B8%8F;&color=00FF66&%F0%9F%9A%80+Bejjarapu+VijayKumar+%F0%9F%9A%80" alt="Name Banner" />
 
-  <!-- Subtitles / Roles (Fast Transitions) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1500&pause=200&color=FF8C00&center=true&vCenter=true&width=800&height=40&lines=Backend+Developer+%E2%94%82+Python+%26+Django+%F0%9F%90%8D;&color=FFD700&6%2B+Internships+%E2%94%82+Django+REST+APIs+%F0%9F%9A%80;&color=FF4500&Open+To+Work+%F0%9F%92%BC" alt="Subtitle Shift" />
+  <!-- Subtitles with Matching Dark Background (Fast Speed) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1400&pause=200&background=1A1A24&color=90E0EF&center=true&vCenter=true&width=800&height=50&lines=Backend+Developer+%E2%94%82+Python+%26+Django+%F0%9F%90%8D;&color=FFB703&Building+Real-World+Projects+%F0%9F%9A%80;&color=00F5D4&6%2B+Internships+%E2%94%82+Django+REST+APIs+%F0%9F%92%BC;&color=00FF66&Open+To+Work+%F0%9F%92%BC" alt="Subtitle Banner" />
   
   <br/>
   
-  <img src="https://komarev.com/ghpvc/?username=chintu420000&color=FF4500&style=flat-square&label=%F0%9F%94%A5+PROFILE+ENGAGEMENT" alt="Profile Views" />
+  <!-- Sleek Profile Views Counter matching the theme -->
+  <img src="https://komarev.com/ghpvc/?username=chintu420000&color=00F5D4&style=flat-square&label=ENGINEER+CORE+ACCESS+%E2%96%B6" alt="Profile Views" />
 </div>
 ---
 
